@@ -25,7 +25,7 @@ SECRET_KEY = '@t!(s%oqmb^fq=5-x(+h6$r!qg5nz5r59qg942b469wwc7#09k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', ' viccanmag.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'viccanmag.pythonanywhere.com']
 
 
 # Application definition
